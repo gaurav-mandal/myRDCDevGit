@@ -1,0 +1,17 @@
+{
+    "AS_Button_h28fba02de984372981e886ffb53030a": {
+        "id": "AS_Button_h28fba02de984372981e886ffb53030a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e9a508b971b14bc48befb36445024e72",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "navigateToForm(\"frmReceiveSTOCase\");",
+            "callbackType": null
+        }]
+    }
+}

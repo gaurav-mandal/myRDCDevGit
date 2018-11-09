@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scd89c7df21e418faf04188b2c6e4bf5",
+    "_text_": "Stock Transport Orders",
+    "_top_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb1e78d8d758482887d1d6c47e2d104a",
+    "id": "ButtonReceiveSTO",
+    "ide_onClick": "AS_Button_feb3f9d808ce43bd9a0b060f780a3866",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i2746e9dbd3d45938e764966f7719810",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "PaddedButtonRound",
+    "pf": "frmMenuReceiving",
+    "wType": "Button",
+    "zindex": 1
+}

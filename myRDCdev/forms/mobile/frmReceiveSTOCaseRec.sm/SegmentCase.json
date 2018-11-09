@@ -1,0 +1,448 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        },
+        {
+            "LabelARKTX": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material Description"
+            },
+            "LabelInbound": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inbound Delivery"
+            },
+            "LabelLFIMG": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "999"
+            },
+            "LabelMATNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "123456789"
+            },
+            "LabelMEINS": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "EA"
+            },
+            "LabelMaterial": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Material"
+            },
+            "LabelQty": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Qty:"
+            },
+            "LabelVBELNPOSNR": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1234567890/10"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentCase",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fd4a78b7921a4cd7bd070245b96e59c8",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexScrollContainerBody",
+    "pf": "frmReceiveSTOCaseRec",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "d4d036f613e848ffb8dcab1f538249bf",
+    "rowcounter": 9,
+    "rowfocusskin": "s0fbc057e35a4200858cb94cfbc0c38d",
+    "rowskin": "s32e9d8fe79a41479f957663e5bc9245",
+    "rowtemplate": "FlexReceiveSTOCase",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s9f2bc00060c4bbf9cf0ed1cd50477ef",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexReceiveSTOCase": "FlexReceiveSTOCase",
+        "LabelARKTX": "LabelARKTX",
+        "LabelInbound": "LabelInbound",
+        "LabelLFIMG": "LabelLFIMG",
+        "LabelMATNR": "LabelMATNR",
+        "LabelMEINS": "LabelMEINS",
+        "LabelMaterial": "LabelMaterial",
+        "LabelQty": "LabelQty",
+        "LabelVBELNPOSNR": "LabelVBELNPOSNR"
+    },
+    "zindex": 1
+}

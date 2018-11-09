@@ -1,0 +1,23 @@
+{
+    "AS_Button_cf50a30de33b4cd18afbd77f0daafc7b": {
+        "id": "AS_Button_cf50a30de33b4cd18afbd77f0daafc7b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReceiveSTOShip",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c27e0f38e6b94bb8be14110013bea769"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_dfc2698484de437cb065a0e7194a53b3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.integrationCall();",
+            "callbackType": null
+        }]
+    }
+}

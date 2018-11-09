@@ -1,0 +1,23 @@
+{
+    "AS_Form_e7c788eb444f42378d904fc774ebc735": {
+        "id": "AS_Form_e7c788eb444f42378d904fc774ebc735",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReceiveSTOUnloadComplete",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f32e3059362d49e6b57ca2c3e064625d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_g83922ba0a804b789b4a480ac6001add",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow(glb_ZWM_RECSTO_CONF_MAN,gbl_ZWM_RECSTO_UNL_ITEMS);",
+            "callbackType": null
+        }]
+    }
+}

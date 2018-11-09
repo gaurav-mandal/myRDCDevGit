@@ -1,0 +1,23 @@
+{
+    "AS_Form_df13f5e3a8d64f308a36970d963b5a1d": {
+        "id": "AS_Form_df13f5e3a8d64f308a36970d963b5a1d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReceiveSTOShip",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c27e0f38e6b94bb8be14110013bea769"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_preShow_g46247e6d08244b5a29deee54fcbb878",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.LabelUname.text = glbSAPLONGNAME;\nthis.view.LabelLgnum.text = glbSAPLGNUM.toString();\nthis.preShow(glb_ZWM_RECSTO_CONF_MAN);",
+            "callbackType": null
+        }]
+    }
+}

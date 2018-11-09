@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94bcd7eadf7478f8d22f9816e2ef480",
+    "_text_": "Receive",
+    "_top_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s38fe282ca5c457b84a26097b7862b2c",
+    "id": "ButtonReceive",
+    "ide_onClick": "AS_Button_f9f61ecfccad45eb8643b91d70653881",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j22b2df1b9ae4e25a7cd5fc0b9dca5d7",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainerFooter",
+    "pf": "frmReceiveSTOCaseRec",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

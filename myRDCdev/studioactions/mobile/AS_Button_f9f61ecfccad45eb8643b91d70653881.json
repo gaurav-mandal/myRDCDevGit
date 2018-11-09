@@ -1,0 +1,24 @@
+{
+    "AS_Button_f9f61ecfccad45eb8643b91d70653881": {
+        "id": "AS_Button_f9f61ecfccad45eb8643b91d70653881",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmReceiveSTOCaseRec",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ee99168fd69a474485c6bc52eb4bfca6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__cb7a05fd5cca4dc9b2e654c9d682549a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.onClickReceive();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
